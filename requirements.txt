@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+google-genai
+pytesseract
+pillow
+pdfplumber
+pdf2image
+requests
+scikit-learn
+joblib
+python-dotenv
