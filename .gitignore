@@ -9,8 +9,8 @@ __pycache__/
 venv/
 .env/
 
-# ML models (optional if large)
-*.pkl
+# # ML models (optional if large)
+# *.pkl
 
 # OS files
 .DS_Store
